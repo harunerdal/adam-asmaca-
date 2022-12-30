@@ -1,0 +1,22 @@
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.csproj.AssemblyReference.cache
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam_asmaca_son_hali_ödev.Form1.resources
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam_asmaca_son_hali_ödev.Properties.Resources.resources
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.csproj.GenerateResource.cache
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.csproj.CoreCompileInputs.cache
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\bin\Debug\adam asmaca son hali ödev.exe.config
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\bin\Debug\adam asmaca son hali ödev.exe
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\bin\Debug\adam asmaca son hali ödev.pdb
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.exe
+C:\Users\eharu\OneDrive\Masaüstü\ödevler\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.pdb
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\bin\Debug\adam asmaca son hali ödev.exe.config
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\bin\Debug\adam asmaca son hali ödev.exe
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\bin\Debug\adam asmaca son hali ödev.pdb
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.csproj.AssemblyReference.cache
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam_asmaca_son_hali_ödev.Form1.resources
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam_asmaca_son_hali_ödev.Properties.Resources.resources
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.csproj.GenerateResource.cache
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.csproj.CoreCompileInputs.cache
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.exe
+C:\Users\eharu\OneDrive\Masaüstü\adam asmaca\adam asmaca son hali ödev\adam asmaca son hali ödev\obj\Debug\adam asmaca son hali ödev.pdb
